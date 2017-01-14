@@ -1,2 +1,1 @@
-# Undergrad-Project_Control_Active-Magnetic-Bearing
-Btech Thesis project
+-># Performance Analysis Design and Control of Rotors Mounted with Active Magnetic Bearings <-
