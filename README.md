@@ -1,1 +1,1 @@
--> Performance Analysis Design and Control of Rotors Mounted with Active Magnetic Bearings <-
+->Performance Analysis Design and Control of Rotors Mounted with Active Magnetic Bearings<-
